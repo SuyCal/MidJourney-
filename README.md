@@ -1,6 +1,6 @@
 # MidJourney-
 
-MidJourney Bot generated those images. Contact me if you want the ones without watermarks.
+AI gen images. Contact me if you want the ones without watermarks.
 
 <div style="display: grid; grid-template-columns: repeat (3, 1 fr); grid-gap: 0;">
     <img src="DXTR0235.png" alt="DXTR0235 Image" style="width: 100 %; height: 200px; object-fit: cover;" />
