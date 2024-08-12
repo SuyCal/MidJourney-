@@ -1,6 +1,4 @@
-# MidJourney-
 
-MidJourney Bot generated my images. 
 
 | ![DXTR0236 Image](MidJourney/DXTR0236.jpg) | ![DXTR0238 Image](MidJourney/DXTR0238.jpg) | ![DXTR0255 Image](MidJourney/DXTR0255.jpg) |
 |--------------------------------------------|--------------------------------------------|--------------------------------------------|
